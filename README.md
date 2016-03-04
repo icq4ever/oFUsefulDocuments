@@ -1,4 +1,4 @@
-# oFUsefulDocuments
+# oFusefulDocuments
 useful oF related docs collection
 
 ## iOS
