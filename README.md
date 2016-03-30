@@ -7,4 +7,4 @@ useful oF related docs collection
 [snippets](http://nshipster.com/xcode-snippets/)
 
 ## Addons
-[ofxImGui](https://github.com/jvcleave/ofxImGui)
+[ofxImGui](https://github.com/jvcleave/ofxImGui) - console, log GUI
